@@ -1,0 +1,3 @@
+name: NukeVaster-t3
+main: com.tenjava.entries.NukeVaster.t3.TenJava
+version: '${project.version}'
